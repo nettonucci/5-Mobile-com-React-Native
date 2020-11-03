@@ -1,0 +1,6 @@
+module Pods_md5 {
+  umbrella header "Pods-md5-umbrella.h"
+
+  export *
+  module * { export * }
+}

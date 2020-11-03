@@ -1,0 +1,6 @@
+module Pods_md5_md5Tests {
+  umbrella header "Pods-md5-md5Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
